@@ -2,15 +2,14 @@
 
 > A C++ command-line tool for structural analysis and motor-gearbox selection of a single-link robot arm — built for the Spring 2026 semester.
 
-**Team 34 — All Mechanical**
+**with the help of my teammates and by their collaboration**
 
-| Name | ID |
-|---|---|
-| Basel Ibrahim Ahmed Ahmed | 2400338 |
-| Ali Mohamed Ahmed Hassan | 2400469 |
-| Mohamed Abdallah Abdelkader | 2400866 |
-| Pierre Ossama Magdi Siha | 2400389 |
-| Abdelmaqsoud Maher Abdelmaqsoud | 2400519 |
+Name 
+
+Basel Ibrahim Ahmed Ahmed 
+Mohamed Abdallah Abdelkader 
+Pierre Ossama Magdi Siha 
+Abdelmaqsoud Maher Abdelmaqsoud 
 
 ---
 
